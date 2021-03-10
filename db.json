@@ -1,0 +1,9 @@
+{
+  "capitals": [
+    {"Austria": "Wien"},
+    {"Australia": "Canberra"},
+    {"England": "London"},
+    {"German": "Berlin"},
+    {"Ukraine": "Kyiv"}
+  ]
+}
