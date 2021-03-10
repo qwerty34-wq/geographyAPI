@@ -1,9 +1,26 @@
 {
   "capitals": [
-    {"Austria": "Wien"},
+    {"Afghanistan": "Kabul"},
+    {"Albania": "Tirana"},
+    {"Algeria": "Algiers"},
+    {"Andorra": "Andorra la Vella"},
+    {"Angola": "Luanda"},
+    {"Antigua and Barbuda": "Saint John's"},
+    {"Argentina": "Buenos Aires"},
+    {"Armenia": "Yerevan"},
     {"Australia": "Canberra"},
-    {"England": "London"},
-    {"German": "Berlin"},
-    {"Ukraine": "Kyiv"}
+    {"Austria": "Vienna"},
+    {"Azerbaijan": "Baku"},
+    {"Bahamas": "Nassau"},
+    {"Bahrain": "Manama"},
+    {"Bangladesh": "Dhaka"},
+    {"Barbados": "Bridgetown"},
+    {"Belarus": "Minsk"},
+    {"Belgium": "Brussels"},
+    {"Belize": "Belmopan"},
+    {"Benin": "Porto Novo"},
+    {"Bhutan": "Thimphu"},
+    {"Bolivia": "Sucre"},
+    {"Bosnia and Herzegovina": "Sarajevo"}
   ]
 }
